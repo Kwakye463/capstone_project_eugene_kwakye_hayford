@@ -1,2 +1,2 @@
 # capstone_project_eugene_kwakye_hayford
-crypto pipeline
+historical crypto pipeline
