@@ -4,9 +4,9 @@ terraform {
 
 resource "aws_redshift_cluster" "data_warehouse" {
   cluster_identifier = "capstone-project"
-  database_name      = "mydb"
-  master_username    = "eugene"
-  master_password    = "Password1709"
+  database_name      = "xxxx"
+  master_username    = "xxxxxxxx"
+  master_password    = "Passwordxxxx"
   node_type          = "dc2.large"
   cluster_type       = "single-node"
 
